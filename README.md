@@ -2,7 +2,8 @@ Pruebas API
 
 # Repositorio
 - clonar el repositorio con el siguiente comando
-  git clone https://github.com/EmanuelMora117/Transferencia.git
+  
+git clone https://github.com/EmanuelMora117/Transferencia.git
 
 # Gestor Base de datos POSTGRESQL
 
