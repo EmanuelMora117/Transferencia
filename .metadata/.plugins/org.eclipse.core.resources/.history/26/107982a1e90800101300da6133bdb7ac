@@ -1,0 +1,5 @@
+package com.tienda.productosElectronicos.repositories.interfaces;
+
+public interface RIProducto {
+
+}

@@ -1,0 +1,5 @@
+package com.tienda.productosElectronicos.models;
+
+public class DTOProducto {
+
+}
